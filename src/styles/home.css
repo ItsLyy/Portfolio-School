@@ -1,0 +1,23 @@
+#home .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+}
+
+#home .container .container__left-side{
+  width: 30rem;
+  padding: 0 5rem 0 0;
+  box-sizing: border-box;
+}
+
+#home .container .container__left-side p span {
+  color: var(--third-color);
+}
+
+#home .container .container__right-side img {
+  width: 18rem;
+  border-radius: 15px;
+}
