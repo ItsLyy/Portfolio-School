@@ -5,6 +5,7 @@
 @import url('./home.css');
 @import url('./about.css');
 @import url('./project.css');
+@import url('./contact.css');
 
 * {
   padding: 0;
